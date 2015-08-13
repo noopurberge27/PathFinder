@@ -15,3 +15,5 @@ java -jar PathFinder-1.0.jar --input-file <location of input file> --output-file
 # Verifying output
 The output file will have the selected path earmarked with "$" symbols
 
+# Regarding compilation and deployment
+Executing supplied compileAndDeployJar.sh will compile the existing code and copy the newly built jar in the repository root folder
