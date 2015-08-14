@@ -4,7 +4,7 @@ import java.util.Comparator;
 import multichoice.data.TraversalPoint;
 
 /**
- * @Description NodeFScoreComparator.java : is a class that represents a Node comparator by F score 
+ * @Description class that represents a Node comparator by F score 
  * 
  * @author Noopur Berge
  *

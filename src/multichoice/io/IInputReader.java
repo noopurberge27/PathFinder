@@ -9,5 +9,5 @@ import multichoice.util.InvalidInputException;
  */
 public interface IInputReader 
 {
-    public abstract MatrixDataProvider fetchMatrixData() throws InvalidInputException;
+    public MatrixDataProvider fetchMatrixData() throws InvalidInputException;
 }
